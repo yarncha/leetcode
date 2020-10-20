@@ -47,3 +47,4 @@
 *.ilk
 *.pdb
 *.idb
+.editorconfig
