@@ -9,6 +9,7 @@
 class Solution {
 public:
 	// reverse ListNode recursively
+	ListNode* reverseList(ListNode* head) {
 		ListNode* current_node = head;
 
 		// 주어지는 head 노드가 nullptr일 경우도 있어서 해당 경우에 대해서 처리해 주어야 한다.
