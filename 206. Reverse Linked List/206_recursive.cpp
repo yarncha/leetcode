@@ -9,22 +9,26 @@
 class Solution {
 public:
 	// reverse ListNode recursively
+	// 100% runtime
 	ListNode* reverseList(ListNode* head) {
-		ListNode* current_node = head;
-
-		// 주어지는 head 노드가 nullptr일 경우도 있어서 해당 경우에 대해서 처리해 주어야 한다.
-		ListNode* result_node = nullptr;
-		if (current_node != nullptr)
+		if (head == nullptr || head->next == nullptr)
 		{
-			result_node = new ListNode(current_node->val);
-
-			while (current_node->next != nullptr)
-			{
-				current_node = current_node->next;
-				result_node = new ListNode(current_node->val, result_node);
-			}
+			return head;
 		}
 
-		return result_node;
+		// 현재 노드를 기점으로 뒤집힌 노드를 가져옴
+		// 1-2-3(head)-4-5-nullptr이었다면
+		// reversed_node는 5-4-nullptr
+		ListNode* reversed_node = reverseList(head->next);
+
+		// head->next는 4이므로 4 다음에 현재 head를 연결시켜주고
+		// 현재 head의 next를 삭제
+		// 즉, return하는 reversed_node는 5-4-3(head)-nullptr가 된다
+		// 이때 중요한 것은 3(head)의 pointer값을 유지하면서 새로 만들지 않고 작성해야 다음에 추가할 곳을 찾을 수 있음
+		ListNode* next_node = head->next;
+		next_node->next = head;
+		head->next = nullptr;
+
+		return reversed_node;
 	}
 };
