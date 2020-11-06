@@ -7,14 +7,13 @@ class Solution {
 public:
 	vector<int> sumZero(int n) {
 		vector<int> res(n);
-		for (int i = 0; i < n/2; i++)
+		int sum = 0;
+		for (int i = 0; i < n-1;i++)
 		{
-			res[2*i] = i+1;
-			res[2*i+1] = (i + 1)*-1;
+			res[i] = i;
+			sum = sum + i;
 		}
-		if (n % 2 != 0) {
-			res[n-1] = 0;
-		}
+		res[n - 1] = sum * (-1);
 
 		return res;
 	}
