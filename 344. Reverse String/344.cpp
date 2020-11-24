@@ -1,4 +1,4 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 #include <vector>
 using namespace std;
 
@@ -7,9 +7,9 @@ public:
 	void reverseString(vector<char>& s) {
 		char temp;
 		int count = 0;
-		while (count< (int)(s.size() - 1 - count)) {
+		while (count < (int)(s.size() - 1 - count)) {
 			temp = s[count];
-			s[count] = s[s.size() -1 - count];
+			s[count] = s[s.size() - 1 - count];
 			s[s.size() - 1 - count] = temp;
 			count++;
 		}
