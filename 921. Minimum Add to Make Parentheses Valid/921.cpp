@@ -34,7 +34,7 @@ public:
 
 int main(void) {
 	Solution sol = Solution();
-	string input = "qwer";
+	string input = "()))(";
 	sol.minAddToMakeValid(input);
 	return 0;
 }
