@@ -10,6 +10,7 @@ class Solution {
 public:
 	// reverse ListNode recursively
 	// 100% runtime
+
 	ListNode* reverseList(ListNode* head) {
 		if (head == nullptr || head->next == nullptr)
 		{
