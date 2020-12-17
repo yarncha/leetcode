@@ -37,7 +37,7 @@ public:
 		// remove wrong left parentheses
 		while (!stack_for_index.empty())
 		{
-			result_string.erase(stack_for_index.top(),1);
+			result_string.erase(stack_for_index.top(), 1);
 			stack_for_index.pop();
 		}
 
