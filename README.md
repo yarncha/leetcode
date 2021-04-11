@@ -1,5 +1,14 @@
-# leetcode
-yarncha's LeetCode Algorithm Problem Solving😊
+### yamcha's
+# LeetCode Algorithm Problem Solving
 
-* commit log : used algorithms
-* comment : solution's runtime and memory usage
+***
+
+#### Progress
+<details open>
+<summary>Solved</summary>
+<div markdown="1">
+
+* [1. Two Sum](https://github.com/yarncha/baekjoon/blob/master/1.cpp)
+
+</div>
+</details>
