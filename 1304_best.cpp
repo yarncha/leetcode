@@ -1,4 +1,4 @@
-﻿#include <stdio.h>
+#include <stdio.h>
 #include <vector>
 #include <iostream>
 using namespace std;
@@ -8,7 +8,7 @@ public:
 	vector<int> sumZero(int n) {
 		vector<int> res(n);
 		int sum = 0;
-		for (int i = 0; i< n - 1; i++)
+		for (int i = 0; i < n - 1; i++)
 		{
 			res[i] = i;
 			sum = sum + i;

@@ -1,4 +1,4 @@
-﻿#include <stdio.h>
+#include <stdio.h>
 #include <string>
 #include <stack>
 #include <iostream>
@@ -15,7 +15,7 @@ public:
 		stack<char> char_stack;	//stack to save characters
 
 		// eliminate duplicate character
-		for (int i = S.size()-1; i >= 0; i--)
+		for (int i = S.size() - 1; i >= 0; i--)
 		{
 			if (!char_stack.empty() && char_stack.top() == S[i]) {
 				char_stack.pop();

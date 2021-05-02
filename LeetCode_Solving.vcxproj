@@ -144,18 +144,32 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1.cpp" />
-    <ClCompile Include="1047.cpp" />
-    <ClCompile Include="104_recursive.cpp" />
+    <ClCompile Include="1047.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="104.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="1108.cpp" />
-    <ClCompile Include="1249.cpp" />
-    <ClCompile Include="1304.cpp" />
-    <ClCompile Include="1304_best.cpp" />
+    <ClCompile Include="1249.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="1304.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="1304_best.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="136.cpp" />
     <ClCompile Include="1470.cpp" />
     <ClCompile Include="1480.cpp" />
     <ClCompile Include="20.cpp" />
-    <ClCompile Include="206.cpp" />
-    <ClCompile Include="206_recursive.cpp" />
+    <ClCompile Include="206.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="206_recursive.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="237.cpp" />
     <ClCompile Include="283.cpp" />
     <ClCompile Include="344.cpp" />
