@@ -3,6 +3,11 @@
 #include <stack>
 using namespace std;
 
+/*
+Runtime: 0 ms, faster than 100.00% of C++ online submissions for Valid Parentheses.
+Memory Usage: 6.3 MB, less than 63.15% of C++ online submissions for Valid Parentheses.
+*/
+
 class Solution {
 public:
 	bool isValid(string s) {

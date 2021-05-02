@@ -8,6 +8,7 @@
 <summary>Solved</summary>
 <div markdown="1">
 
+* [20. Valid Parentheses](https://github.com/yarncha/baekjoon/blob/master/20.cpp)
 * [104. Maximum Depth of Binary Tree](https://github.com/yarncha/baekjoon/blob/master/104.cpp)
 	recursion, tree
 * [136. Single Number](https://github.com/yarncha/baekjoon/blob/master/136.cpp)
@@ -26,9 +27,6 @@
 * [1304. Find N Unique Integers Sum up to Zero](https://github.com/yarncha/baekjoon/blob/master/1304.cpp), [best solution](https://github.com/yarncha/baekjoon/blob/master/1304_best.cpp)
 * [1470. Shuffle the Array](https://github.com/yarncha/baekjoon/blob/master/1470.cpp)
 * [1480. Running Sum of 1d Array](https://github.com/yarncha/baekjoon/blob/master/1480.cpp)
-
-* [1. Two Sum](https://github.com/yarncha/baekjoon/blob/master/1.cpp)
-* [20. Valid Parentheses](https://github.com/yarncha/baekjoon/blob/master/20.cpp)
 
 </div>
 </details>
