@@ -14,10 +14,10 @@ public:
 	}
 };
 
-int main(void) {
-	Solution sol = Solution();
-
-	sol.qwer();
-
-	return 0;
-}
+//int main(void) {
+//	Solution sol = Solution();
+//
+//	sol.qwer();
+//
+//	return 0;
+//}
