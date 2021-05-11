@@ -27,6 +27,11 @@
 * [1304. Find N Unique Integers Sum up to Zero](https://github.com/yarncha/baekjoon/blob/master/1304.cpp), [best solution](https://github.com/yarncha/baekjoon/blob/master/1304_best.cpp)
 * [1470. Shuffle the Array](https://github.com/yarncha/baekjoon/blob/master/1470.cpp)
 * [1480. Running Sum of 1d Array](https://github.com/yarncha/baekjoon/blob/master/1480.cpp)
+* [1598. Crawler Log Folder](https://github.com/yarncha/baekjoon/blob/master/1598.cpp)
 
 </div>
 </details>
+
+#### Memo
+
+DP문제 연습 겸 더 풀어보고싶음, 지금 골라놓은 문제 풀면 stack, dp위주로 하루에 한문제씩 풀기
