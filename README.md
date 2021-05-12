@@ -11,6 +11,8 @@
 * [20. Valid Parentheses](https://github.com/yarncha/baekjoon/blob/master/20.cpp)
 * [104. Maximum Depth of Binary Tree](https://github.com/yarncha/baekjoon/blob/master/104.cpp)
 	recursion, tree
+* [121. Best Time to Buy and Sell Stock](https://github.com/yarncha/baekjoon/blob/master/121.cpp)
+	DP
 * [136. Single Number](https://github.com/yarncha/baekjoon/blob/master/136.cpp)
 	bit manipulation
 * [206. Reverse Linked List](https://github.com/yarncha/baekjoon/blob/master/206.cpp) , [(solution with recursion)](https://github.com/yarncha/baekjoon/blob/master/206_recursive.cpp)
