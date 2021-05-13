@@ -20,6 +20,8 @@
 * [237. Delete Node in a Linked List](https://github.com/yarncha/baekjoon/blob/master/237.cpp)
 * [344. Reverse String](https://github.com/yarncha/baekjoon/blob/master/344.cpp)
 * [412. Fizz Buzz](https://github.com/yarncha/baekjoon/blob/master/412.cpp)
+* [746. Min Cost Climbing Stairs](https://github.com/yarncha/baekjoon/blob/master/746.cpp)
+	DP
 * [921. Minimum Add to Make Parentheses Valid](https://github.com/yarncha/baekjoon/blob/master/921.cpp)
 	stack
 * [1047. Remove All Adjacent Duplicates In String](https://github.com/yarncha/baekjoon/blob/master/1047.cpp)
