@@ -2,10 +2,21 @@
 #include <string>
 using namespace std;
 
+/*
+
+Runtime: 4 ms, faster than 23.30% of C++ online submissions for Is Subsequence.
+Memory Usage: 6.4 MB, less than 24.62% of C++ online submissions for Is Subsequence.
+
+*/
+
 class Solution {
 public:
 	bool isSubsequence(string s, string t) {
-		// 그냥 한 글자식 읽으면서 s가남은채로 끝나던가 하면 오류내면되는거아님?
+		if (s.size() == 0) {
+			// if string s is an empty string, it must be a subsequence of string t
+			return true;
+		}
+
 		int current_s_char = 0;
 		for (int i = 0; i < t.size(); i++) {
 			if (s.at(current_s_char) == t.at(i)) {
@@ -27,7 +38,7 @@ public:
 
 int main(void) {
 	Solution sol = Solution();
-	string s = "abc";
+	string s = "";
 	string t = "ahbgdc";
 	sol.isSubsequence(s, t);
 
