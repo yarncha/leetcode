@@ -18,7 +18,9 @@
 * [206. Reverse Linked List](https://github.com/yarncha/baekjoon/blob/master/206.cpp) , [(solution with recursion)](https://github.com/yarncha/baekjoon/blob/master/206_recursive.cpp)
 	recursion, linked list
 * [237. Delete Node in a Linked List](https://github.com/yarncha/baekjoon/blob/master/237.cpp)
+* [283. Move Zeroes](https://github.com/yarncha/baekjoon/blob/master/283.cpp)
 * [344. Reverse String](https://github.com/yarncha/baekjoon/blob/master/344.cpp)
+* [392. Is Subsequence](https://github.com/yarncha/baekjoon/blob/master/392.cpp)
 * [412. Fizz Buzz](https://github.com/yarncha/baekjoon/blob/master/412.cpp)
 * [746. Min Cost Climbing Stairs](https://github.com/yarncha/baekjoon/blob/master/746.cpp)
 	DP
