@@ -21,7 +21,7 @@ public:
 				finished_point++;
 			}
 		}
-		// 0 채워넣기
+		// fill zero to the vector
 		while (finished_point < nums.size())
 		{
 			nums[finished_point] = 0;
