@@ -1,13 +1,18 @@
-//#include <stdio.h>
-//#include <vector>
 //#include <string>
 //#include <iostream>
+//#include <algorithm>
 //using namespace std;
 //
 //class Solution {
 //public:
 //	string defangIPaddr(string address) {
+//		for (int i = 0; i < address.size(); i++)
+//		{
+//			if (address.at(i) == '.') {
 //
+//			}
+//		}
+//		return address;
 //	}
 //};
 //
