@@ -34,12 +34,15 @@
 	stack
 * [1249. Minimum Remove to Make Valid Parentheses](https://github.com/yarncha/baekjoon/blob/master/1249.cpp)
 	stack
+* [1277. Count Square Submatrices with All Ones](https://github.com/yarncha/baekjoon/blob/master/1277.cpp)
+	DP
 * [1304. Find N Unique Integers Sum up to Zero](https://github.com/yarncha/baekjoon/blob/master/1304.cpp), [best solution](https://github.com/yarncha/baekjoon/blob/master/1304_best.cpp)
 * [1470. Shuffle the Array](https://github.com/yarncha/baekjoon/blob/master/1470.cpp)
 * [1480. Running Sum of 1d Array](https://github.com/yarncha/baekjoon/blob/master/1480.cpp)
 * [1512. Number of Good Pairs](https://github.com/yarncha/baekjoon/blob/master/1512.cpp)
 * [1598. Crawler Log Folder](https://github.com/yarncha/baekjoon/blob/master/1598.cpp)
 * [1641. Count Sorted Vowel Strings](https://github.com/yarncha/baekjoon/blob/master/1641.cpp)
+	DP
 
 </div>
 </details>
