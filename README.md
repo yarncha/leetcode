@@ -23,6 +23,8 @@
 	recursion, linked list
 * [237. Delete Node in a Linked List](https://github.com/yarncha/baekjoon/blob/master/237.cpp)
 * [283. Move Zeroes](https://github.com/yarncha/baekjoon/blob/master/283.cpp)
+* [338. Counting Bits](https://github.com/yarncha/baekjoon/blob/master/338.cpp)
+	DP
 * [344. Reverse String](https://github.com/yarncha/baekjoon/blob/master/344.cpp)
 * [392. Is Subsequence](https://github.com/yarncha/baekjoon/blob/master/392.cpp)
 * [412. Fizz Buzz](https://github.com/yarncha/baekjoon/blob/master/412.cpp)
