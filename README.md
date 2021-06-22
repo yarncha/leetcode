@@ -34,6 +34,8 @@
 	stack
 * [921. Minimum Add to Make Parentheses Valid](https://github.com/yarncha/baekjoon/blob/master/921.cpp)
 	stack
+* [1021. Remove Outermost Parentheses](https://github.com/yarncha/baekjoon/blob/master/1021.cpp)
+	stack
 * [1043. Partition Array for Maximum Sum](https://github.com/yarncha/baekjoon/blob/master/1043.cpp)
 	DP
 * [1047. Remove All Adjacent Duplicates In String](https://github.com/yarncha/baekjoon/blob/master/1047.cpp)

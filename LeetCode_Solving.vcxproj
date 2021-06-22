@@ -144,6 +144,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1.cpp" />
+    <ClCompile Include="1021.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
     <ClCompile Include="1043.cpp" />
     <ClCompile Include="1047.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
