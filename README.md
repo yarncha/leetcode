@@ -15,6 +15,8 @@
 * [70. Climbing Stairs](https://github.com/yarncha/baekjoon/blob/master/70.cpp)
 * [104. Maximum Depth of Binary Tree](https://github.com/yarncha/baekjoon/blob/master/104.cpp)
 	recursion, tree
+* [118. Pascal's Triangle](https://github.com/yarncha/baekjoon/blob/master/118.cpp)
+	DP
 * [121. Best Time to Buy and Sell Stock](https://github.com/yarncha/baekjoon/blob/master/121.cpp)
 	DP
 * [136. Single Number](https://github.com/yarncha/baekjoon/blob/master/136.cpp)
@@ -28,6 +30,8 @@
 * [344. Reverse String](https://github.com/yarncha/baekjoon/blob/master/344.cpp)
 * [392. Is Subsequence](https://github.com/yarncha/baekjoon/blob/master/392.cpp)
 * [412. Fizz Buzz](https://github.com/yarncha/baekjoon/blob/master/412.cpp)
+* [509. Fibonacci Number](https://github.com/yarncha/baekjoon/blob/master/509.cpp)
+	DP
 * [746. Min Cost Climbing Stairs](https://github.com/yarncha/baekjoon/blob/master/746.cpp)
 	DP
 * [844. Backspace String Compare](https://github.com/yarncha/baekjoon/blob/master/844.cpp)
