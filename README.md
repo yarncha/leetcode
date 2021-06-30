@@ -38,6 +38,8 @@
 	stack
 * [921. Minimum Add to Make Parentheses Valid](https://github.com/yarncha/baekjoon/blob/master/921.cpp)
 	stack
+* [1004. Max Consecutive Ones III](https://github.com/yarncha/baekjoon/blob/master/1004.cpp)
+	Sliding Window
 * [1021. Remove Outermost Parentheses](https://github.com/yarncha/baekjoon/blob/master/1021.cpp)
 	stack
 * [1043. Partition Array for Maximum Sum](https://github.com/yarncha/baekjoon/blob/master/1043.cpp)
