@@ -17,6 +17,8 @@
 	recursion, tree
 * [118. Pascal's Triangle](https://github.com/yarncha/baekjoon/blob/master/118.cpp)
 	DP
+* [119. Pascal's Triangle II](https://github.com/yarncha/baekjoon/blob/master/119.cpp)
+	DP
 * [121. Best Time to Buy and Sell Stock](https://github.com/yarncha/baekjoon/blob/master/121.cpp)
 	DP
 * [136. Single Number](https://github.com/yarncha/baekjoon/blob/master/136.cpp)
@@ -46,6 +48,9 @@
 	DP
 * [1047. Remove All Adjacent Duplicates In String](https://github.com/yarncha/baekjoon/blob/master/1047.cpp)
 	stack
+* [1108. Defanging an IP Address](https://github.com/yarncha/baekjoon/blob/master/1108.cpp)
+* [1137. N-th Tribonacci Number](https://github.com/yarncha/baekjoon/blob/master/1137.cpp)
+	DP
 * [1249. Minimum Remove to Make Valid Parentheses](https://github.com/yarncha/baekjoon/blob/master/1249.cpp)
 	stack
 * [1277. Count Square Submatrices with All Ones](https://github.com/yarncha/baekjoon/blob/master/1277.cpp)
