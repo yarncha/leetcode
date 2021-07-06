@@ -60,6 +60,8 @@
 * [1470. Shuffle the Array](https://github.com/yarncha/baekjoon/blob/master/1470.cpp)
 * [1480. Running Sum of 1d Array](https://github.com/yarncha/baekjoon/blob/master/1480.cpp)
 * [1512. Number of Good Pairs](https://github.com/yarncha/baekjoon/blob/master/1512.cpp)
+* [1528. Shuffle String](https://github.com/yarncha/baekjoon/blob/master/1528.cpp)
+	string
 * [1598. Crawler Log Folder](https://github.com/yarncha/baekjoon/blob/master/1598.cpp)
 * [1641. Count Sorted Vowel Strings](https://github.com/yarncha/baekjoon/blob/master/1641.cpp)
 	DP
