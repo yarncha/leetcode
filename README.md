@@ -8,6 +8,7 @@
 <summary>Solved</summary>
 <div markdown="1">
 
+* [1. Two Sum](https://github.com/yarncha/baekjoon/blob/master/1.cpp)
 * [20. Valid Parentheses](https://github.com/yarncha/baekjoon/blob/master/20.cpp)
 * [53. Maximum Subarray](https://github.com/yarncha/baekjoon/blob/master/53.cpp)
 	DP
