@@ -52,6 +52,8 @@
 * [1108. Defanging an IP Address](https://github.com/yarncha/baekjoon/blob/master/1108.cpp)
 * [1137. N-th Tribonacci Number](https://github.com/yarncha/baekjoon/blob/master/1137.cpp)
 	DP
+* [1221. Split a String in Balanced Strings](https://github.com/yarncha/baekjoon/blob/master/1221.cpp)
+	string
 * [1249. Minimum Remove to Make Valid Parentheses](https://github.com/yarncha/baekjoon/blob/master/1249.cpp)
 	stack
 * [1277. Count Square Submatrices with All Ones](https://github.com/yarncha/baekjoon/blob/master/1277.cpp)
@@ -66,6 +68,11 @@
 * [1598. Crawler Log Folder](https://github.com/yarncha/baekjoon/blob/master/1598.cpp)
 * [1641. Count Sorted Vowel Strings](https://github.com/yarncha/baekjoon/blob/master/1641.cpp)
 	DP
+* [1678. Goal Parser Interpretation](https://github.com/yarncha/baekjoon/blob/master/1678.cpp)
+	string
+* [1773. Count Items Matching a Rule](https://github.com/yarncha/baekjoon/blob/master/1773.cpp)
+	string
+
 
 </div>
 </details>
