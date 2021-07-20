@@ -24,6 +24,7 @@
 	DP
 * [136. Single Number](https://github.com/yarncha/baekjoon/blob/master/136.cpp)
 	bit manipulation
+* [145. Binary Tree Postorder Traversal](https://github.com/yarncha/baekjoon/blob/master/145.cpp)
 * [162. Find Peak Element](https://github.com/yarncha/baekjoon/blob/master/162.cpp)
 * [206. Reverse Linked List](https://github.com/yarncha/baekjoon/blob/master/206.cpp) , [(solution with recursion)](https://github.com/yarncha/baekjoon/blob/master/206_recursive.cpp)
 	recursion, linked list
