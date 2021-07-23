@@ -50,7 +50,7 @@
 	Sliding Window
 * [1021. Remove Outermost Parentheses](https://github.com/yarncha/baekjoon/blob/master/1021.cpp)
 	stack
-* [1043. Partition Array for Maximum Sum](https://github.com/yarncha/baekjoon/blob/master/1043.cpp)
+* 🤔[1043. Partition Array for Maximum Sum](https://github.com/yarncha/baekjoon/blob/master/1043.cpp)
 	DP
 * [1047. Remove All Adjacent Duplicates In String](https://github.com/yarncha/baekjoon/blob/master/1047.cpp)
 	stack
