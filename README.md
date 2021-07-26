@@ -77,6 +77,8 @@
 	string
 * [1773. Count Items Matching a Rule](https://github.com/yarncha/baekjoon/blob/master/1773.cpp)
 	string
+* [1859. Sorting the Sentence](https://github.com/yarncha/baekjoon/blob/master/1859.cpp)
+	string
 
 
 </div>
