@@ -77,13 +77,11 @@
 	string
 * [1773. Count Items Matching a Rule](https://github.com/yarncha/baekjoon/blob/master/1773.cpp)
 	string
+* [1832. Check if the Sentence Is Pangram](https://github.com/yarncha/baekjoon/blob/master/1832.cpp)
+	string
 * [1859. Sorting the Sentence](https://github.com/yarncha/baekjoon/blob/master/1859.cpp)
 	string
 
 
 </div>
 </details>
-
-#### Memo
-
-DP문제 연습 겸 더 풀어보고싶음, 지금 골라놓은 문제 풀면 stack, dp위주로 하루에 한문제씩 풀기
