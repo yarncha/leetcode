@@ -71,6 +71,8 @@
 * [1528. Shuffle String](https://github.com/yarncha/baekjoon/blob/master/1528.cpp)
 	string
 * [1598. Crawler Log Folder](https://github.com/yarncha/baekjoon/blob/master/1598.cpp)
+* [1662. Check If Two String Arrays are Equivalent](https://github.com/yarncha/baekjoon/blob/master/1662.cpp)
+	string
 * [1641. Count Sorted Vowel Strings](https://github.com/yarncha/baekjoon/blob/master/1641.cpp)
 	DP
 * [1678. Goal Parser Interpretation](https://github.com/yarncha/baekjoon/blob/master/1678.cpp)

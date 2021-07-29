@@ -157,13 +157,19 @@
     <ClCompile Include="611.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="600.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="1859.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="1832.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1662.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1662_faster.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1684.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
