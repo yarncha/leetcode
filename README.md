@@ -77,6 +77,8 @@
 	DP
 * [1678. Goal Parser Interpretation](https://github.com/yarncha/baekjoon/blob/master/1678.cpp)
 	string
+* [1684. Count the Number of Consistent Strings](https://github.com/yarncha/baekjoon/blob/master/1684.cpp)
+	string
 * [1773. Count Items Matching a Rule](https://github.com/yarncha/baekjoon/blob/master/1773.cpp)
 	string
 * [1832. Check if the Sentence Is Pangram](https://github.com/yarncha/baekjoon/blob/master/1832.cpp)
