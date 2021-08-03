@@ -83,7 +83,11 @@
 	string
 * [1773. Count Items Matching a Rule](https://github.com/yarncha/baekjoon/blob/master/1773.cpp)
 	string
+* [1816. Truncate Sentence](https://github.com/yarncha/baekjoon/blob/master/1816.cpp)
+	string
 * [1832. Check if the Sentence Is Pangram](https://github.com/yarncha/baekjoon/blob/master/1832.cpp)
+	string
+* [1844. Replace All Digits with Characters](https://github.com/yarncha/baekjoon/blob/master/1844.cpp)
 	string
 * [1859. Sorting the Sentence](https://github.com/yarncha/baekjoon/blob/master/1859.cpp)
 	string
