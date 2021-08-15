@@ -1,11 +1,13 @@
 #include <iostream>
+#include <vector>
 using namespace std;
 
 class Solution {
 public:
-    int uniqueMorseRepresentations(vector<string>& words) {
+	string morse_codes[] = {".-","-...","-.-.","-..",".","..-.","--.","....","..",".---","-.-",".-..","--","-.","---",".--.","--.-",".-.","...","-","..-","...-",".--","-..-","-.--","--.."};
+	int uniqueMorseRepresentations(vector<string>& words) {
 
-    }
+	}
 };
 
 //int main(void) {
