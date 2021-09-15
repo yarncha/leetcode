@@ -42,6 +42,8 @@
 	string
 * [746. Min Cost Climbing Stairs](https://github.com/yarncha/baekjoon/blob/master/746.cpp)
 	DP
+* [804. Unique Morse Code Words](https://github.com/yarncha/baekjoon/blob/master/804.cpp)
+	string
 * [844. Backspace String Compare](https://github.com/yarncha/baekjoon/blob/master/844.cpp)
 	stack
 * [894. All Possible Full Binary Trees](https://github.com/yarncha/baekjoon/blob/master/894.cpp)
