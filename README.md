@@ -93,7 +93,8 @@
 	string
 * [1859. Sorting the Sentence](https://github.com/yarncha/baekjoon/blob/master/1859.cpp)
 	string
-
+* [2000. Reverse Prefix of Word](https://github.com/yarncha/baekjoon/blob/master/2000.cpp)
+	string
 
 </div>
 </details>
