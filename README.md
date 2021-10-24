@@ -40,7 +40,7 @@
 * [611. Valid Triangle Number](https://github.com/yarncha/baekjoon/blob/master/611.cpp)
 * [709. To Lower Case](https://github.com/yarncha/baekjoon/blob/master/709.cpp)
 	string
-* [746. Min Cost Climbing Stairs](https://github.com/yarncha/baekjoon/blob/master/746.cpp)
+* [746. Min Cost Climbing Stairs](https://github.com/yarncha/baekjoon/blob/master/746.cpp), [0ms Runtime Solution](https://github.com/yarncha/baekjoon/blob/master/746_better.cpp)
 	DP
 * [804. Unique Morse Code Words](https://github.com/yarncha/baekjoon/blob/master/804.cpp)
 	string
