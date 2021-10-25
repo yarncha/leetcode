@@ -26,6 +26,8 @@
 	bit manipulation
 * [145. Binary Tree Postorder Traversal](https://github.com/yarncha/baekjoon/blob/master/145.cpp)
 * [162. Find Peak Element](https://github.com/yarncha/baekjoon/blob/master/162.cpp)
+* 🤔[198. House Robber](https://github.com/yarncha/baekjoon/blob/master/198.cpp)
+	DP, wrong several times
 * [206. Reverse Linked List](https://github.com/yarncha/baekjoon/blob/master/206.cpp) , [(solution with recursion)](https://github.com/yarncha/baekjoon/blob/master/206_recursive.cpp)
 	recursion, linked list
 * [237. Delete Node in a Linked List](https://github.com/yarncha/baekjoon/blob/master/237.cpp)
@@ -82,6 +84,8 @@
 * [1678. Goal Parser Interpretation](https://github.com/yarncha/baekjoon/blob/master/1678.cpp)
 	string
 * [1684. Count the Number of Consistent Strings](https://github.com/yarncha/baekjoon/blob/master/1684.cpp)
+	string
+* [1704. Determine if String Halves Are Alike](https://github.com/yarncha/baekjoon/blob/master/1704.cpp)
 	string
 * [1773. Count Items Matching a Rule](https://github.com/yarncha/baekjoon/blob/master/1773.cpp)
 	string

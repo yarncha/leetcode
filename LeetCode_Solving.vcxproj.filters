@@ -187,7 +187,13 @@
     <ClCompile Include="2000.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1704.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
     <ClCompile Include="746_better.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="198.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
